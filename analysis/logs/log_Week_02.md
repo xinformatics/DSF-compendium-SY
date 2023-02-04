@@ -9,15 +9,17 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
-* 
+* The importance of project management in open-science.
+* The interplay between People-Data-Technology for succesful collaboration.
+* Examples of various research objects.
 
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future.
-* 
+* How the roles and responsibilities vary among collaborators and sometimes one person has to wear different hats depending on the situation.
 
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. 
-* 
+* Some extra tutotials for interested learners.
 
 ## Additional thought
 Write anything that you think would be important for YOU later on.
