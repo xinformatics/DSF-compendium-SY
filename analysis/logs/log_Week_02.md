@@ -1,5 +1,5 @@
 # Learner Log Entry #2
-Edit date: 2023-02-04
+Edit date: 2023-02-06
 Due  date: 2023-02-06
 
 
@@ -19,7 +19,7 @@ Something that you are looking forward to digging into deeper. This could also b
 
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. 
-* Some extra tutotials for interested learners.
+* Some extra tutorials for interested learners.
 
 ## Additional thought
 Write anything that you think would be important for YOU later on.
