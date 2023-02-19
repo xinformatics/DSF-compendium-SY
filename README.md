@@ -15,7 +15,10 @@ This repository is organized as a reproducible research compendium. Future updat
     analysis/
     |
     ├── logs/
-    │   └── log.md          # learning log for DSF
+    │   └── log_Week_01.m       # learning log for DSF
+    |   └── log_Week_02.m       # learning log for DSF
+    |   └── log_Week_03.m       # learning log for DSF
+    |   └── log_Week_04.m       # learning log for DSF
     |
     ├── figures/            # location of the figures produced for the manuscript
     |
