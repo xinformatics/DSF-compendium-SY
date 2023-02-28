@@ -25,3 +25,5 @@ Something that was challenging that could be worked on, such as anything that wa
 ## Additional thought
 Write anything that you think would be important for YOU later on.
 * Continuing with the CyVerse Self-Guided Tour
+
+## some edit for DSF session on 28th Feb
