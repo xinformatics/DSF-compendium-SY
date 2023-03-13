@@ -1,6 +1,6 @@
-# Learner Log Entry #5
-Edit date: 2023-02-23
-Due  date: 2023-02-27
+# Learner Log Entry #6
+Edit date: 2023-03-02
+Due  date: 2023-03-06
 
 
 
@@ -28,6 +28,4 @@ Write anything that you think would be important for YOU later on.
 <<<<<<< HEAD
 =======
 
-## some edit for DSF session on 28th Feb -- this change was pushed from github desktop
-## another change- trying to push from VSCODE
 >>>>>>> origin/main
